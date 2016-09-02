@@ -1,6 +1,6 @@
-TeslaRom
-========
+TeslaRom Nexus
+==============
 
 To initialize your local repository, use this command:
 
-	repo init -u https://github.com/TeslaRom-N/manifest.git -b n7.0
+	repo init -u https://github.com/TeslaRom-N/manifest.git -b n7.0-nexus
